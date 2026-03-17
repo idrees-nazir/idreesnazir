@@ -2,8 +2,8 @@
 <h3 align="center">Senior Full Stack Engineer | .NET | Angular | Node.js | Cloud</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/idreescode">
+    <img src="https://komarev.com/ghpvc/?username=idreescode&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
