@@ -1,24 +1,49 @@
-# 👋 Hi, I'm Idrees Nazir
+<h1 align="center">Hi 👋, I'm Idrees Nazir</h1>
+<h3 align="center">Senior Full Stack Engineer | .NET | Angular | Node.js | Cloud</h3>
 
-💻 **Senior Full Stack Software Engineer** with 16+ years of experience building scalable, secure, and high-performance applications.
-I specialize in Microsoft technologies and modern web frameworks, working across the full stack — from responsive frontends to robust backend systems and cloud integrations.
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-### ⚙️ Languages & Frameworks
+💻 Full Stack Software Engineer with **16+ years of experience** building scalable and enterprise-grade applications.
+⚡ Specialized in **.NET, Angular, Node.js, and cloud-based solutions**
+🔧 Strong experience in **ERP systems, financial integrations, and APIs**
+🌍 Passionate about **clean code, performance, and modern architecture**
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,express,nextjs,python,flask,php,laravel,blazor" />
 </p>
 
-* **C# / .NET / ASP.NET MVC / .NET Core / Blazor**
-* **TypeScript / JavaScript**
-* **Angular / Next.js**
-* **Node.js / Express.js**
-* **Python / Flask**
-* **PHP / Laravel**
+---
+
+### 🧠 Backend Development
+
+* .NET Core / ASP.NET MVC / Web API
+* Node.js / Express.js
+* REST APIs & Microservices
+* Authentication (JWT, OAuth)
+* File processing & integrations
+
+---
+
+### 🎨 Frontend Development
+
+* Angular (v17)
+* Next.js (SSR)
+* TypeScript / JavaScript
+* Responsive UI / UX
 
 ---
 
@@ -34,69 +59,67 @@ I specialize in Microsoft technologies and modern web frameworks, working across
 
 ---
 
-### 🔧 Tools & Libraries
+### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,azure" />
+  <img src="https://skillicons.dev/icons?i=azure,githubactions" />
 </p>
 
-* Git & GitHub
-* GitHub Actions
 * Azure / Azure DevOps
 * CI/CD Pipelines
+* GitHub Actions
+* Deployment Automation
+
+---
+
+### 🔧 Tools & Libraries
+
+* Git / GitHub
 * Entity Framework
 * pandas / NumPy
+* API Integrations
 
 ---
 
-## ⚡ Backend & API Development
+## 🚀 Featured Projects
 
-* RESTful API Design & Development
-* Microservices Architecture
-* Third-party API Integrations
-* Authentication & Authorization (JWT, OAuth)
-* File-based processing & data pipelines
+### 🔹 Enterprise ERP Integration System
 
----
+* Tech: .NET Core + Angular
+* Features: Financial transactions, API integrations, reporting
+* Focus: Scalability & performance
 
-## 🌐 Frontend & Web Technologies
+### 🔹 Patient Voice System (Upgrade)
 
-* Responsive UI Development
-* SPA Development (Angular)
-* Server-Side Rendering (Next.js)
-* Component-based architecture
-* Performance optimization
+* Tech: ASP.NET WebForms → Angular + .NET
+* Work: Modernization & performance optimization
 
----
+### 🔹 File-Based Transaction Processing System
 
-## ☁️ Cloud & DevOps
-
-* Azure Cloud Services
-* Azure DevOps Pipelines
-* Continuous Integration & Deployment (CI/CD)
-* Deployment & environment management
-
----
-
-## 🚀 Featured Experience
-
-* 🔹 12+ years in software development
-* 🔹 Full-stack expertise (.NET + Angular + Laravel + Node.js)
-* 🔹 Experience with ERP & financial system integrations
-* 🔹 Strong database design & optimization skills
-* 🔹 Upgrading legacy systems to modern architectures
+* Tech: .NET Core
+* Features: Automated file generation, ERP upload, scheduling
 
 ---
 
 ## 📊 GitHub Stats
 
-![Idrees's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+---
+
+## 🎯 What I Do
+
+* Build scalable full-stack applications
+* Design clean and maintainable architectures
+* Integrate ERP & financial systems
+* Upgrade legacy applications to modern stacks
 
 ---
 
 ## 📫 Connect With Me
 
 * 💼 Open to freelance & remote opportunities
-* 🌐 Add your LinkedIn / Portfolio here
+* 🌐 https://www.linkedin.com/in/idrees-nazir-93237b3b/ / https://github.com/idreescode
